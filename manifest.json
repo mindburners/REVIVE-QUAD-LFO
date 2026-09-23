@@ -1,6 +1,6 @@
 {
   "name": "REVIVE QUAD LFO — Firmware Installer",
-  "version": "2.10",
+  "version": "2.26",
   "new_install_prompt_erase": true,
   "builds": [
     {
